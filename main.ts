@@ -11,8 +11,9 @@
  *
  * In this example, we'll be using a custom LLM client to use Ollama instead of the default OpenAI client.
  *
- * 1. Go to Hacker News (https://news.ycombinator.com)
- * 2. Use `extract` to find the top 3 stories
+ * 1. Go to https://mrq-test.com
+ * 2. Use `extract` to get the IDs of all clickable elements
+ * 3. Save the clickable elements to a JSON file
  */
 
 import StagehandConfig from "./stagehand.config.js";
@@ -21,6 +22,7 @@ import { z } from "zod";
 import chalk from "chalk";
 import boxen from "boxen";
 import dotenv from "dotenv";
+import fs from "fs/promises";
 
 dotenv.config();
 
@@ -33,20 +35,34 @@ export async function main({
   context: BrowserContext; // Playwright BrowserContext
   stagehand: Stagehand; // Stagehand instance
 }) {
-  await stagehand.page.goto("https://news.ycombinator.com");
+  await stagehand.page.goto("https://mrq-test.com");
 
-  const headlines = await stagehand.page.extract({
-    instruction: "Extract the top story from the Hacker News homepage.",
-    schema: z.object({
-      story: z.object({
-        title: z.string(),
-        points: z.number(),
-      }),
-    }),
-    useTextExtract: true,
+  const clickableElements = await stagehand.page.evaluate(() => {
+    // Query all clickable elements
+    const elements = Array.from(
+      document.querySelectorAll("a, button, input[type='button'], input[type='submit'], [role='button']")
+    );
+
+    // Map elements to extract relevant attributes
+    return elements.map((el) => ({
+      tagName: el.tagName.toLowerCase(),
+      id: el.id || null,
+      className: el.className || null,
+      text: el.textContent?.trim() || null,
+      type: (el as HTMLInputElement).type || null,
+      href: (el as HTMLAnchorElement).href || null,
+    }));
   });
 
-  console.log(headlines);
+  console.log("Extracted clickable elements:", clickableElements);
+
+  // Save the clickable elements to a JSON file
+  await fs.writeFile(
+    "clickable-elements.json",
+    JSON.stringify(clickableElements, null, 2),
+    "utf-8"
+  );
+  console.log("Clickable elements saved to clickable-elements.json");
 
   //   Close the browser
   await stagehand.close();

@@ -1,0 +1,1962 @@
+[
+  {
+    "tagName": "button",
+    "id": null,
+    "className": "buttonBase buttonMenu buttonBase",
+    "text": "Menu",
+    "type": "button",
+    "href": null
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "buttonBase",
+    "text": "Login",
+    "type": null,
+    "href": "https://mrq-test.com/login"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "buttonBase",
+    "text": "Join now",
+    "type": null,
+    "href": "https://mrq-test.com/signup"
+  },
+  {
+    "tagName": "button",
+    "id": null,
+    "className": "sideMenu__close",
+    "text": null,
+    "type": "button",
+    "href": null
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "buttonBase",
+    "text": "Login",
+    "type": null,
+    "href": "https://mrq-test.com/login"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "buttonBase",
+    "text": "Join now",
+    "type": null,
+    "href": "https://mrq-test.com/signup"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Home",
+    "type": null,
+    "href": "https://mrq-test.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Bingo",
+    "type": null,
+    "href": "https://mrq-test.com/bingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Games",
+    "type": null,
+    "href": "https://mrq-test.com/games"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "New Slots",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/new/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Top Online Slots",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/top/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Blackjack Games",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/blackjack"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Roulette Games",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Slingo Games",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/slingo/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Jackpot Slots",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/jackpot/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Megaways Slots",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/megaways/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Live Casino",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/live/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Coming Soon",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/coming-soon/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Providers",
+    "type": null,
+    "href": "https://mrq-test.com/providers"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Mobile Slots",
+    "type": null,
+    "href": "https://mrq-test.com/mobile-slots"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Mobile Casino",
+    "type": null,
+    "href": "https://mrq-test.com/mobile-casino"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Promotions",
+    "type": null,
+    "href": "https://mrq-test.com/promotions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Refer a friend",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Blog",
+    "type": null,
+    "href": "https://mrq-test.com/blog"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Slots Guide",
+    "type": null,
+    "href": "https://mrq-test.com/blog/blog/ultimate-slots-guide"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Blackjack Guides",
+    "type": null,
+    "href": "https://mrq-test.com/blog/blog/blackjack-ultimate-guide"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Withdrawals",
+    "type": null,
+    "href": "https://help.mrq.com/hc/en-gb/categories/8049136375316-Payments-Withdrawals-"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Deposits",
+    "type": null,
+    "href": "https://mrq-test.com/deposits"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Deposit by Phone Bill",
+    "type": null,
+    "href": "https://mrq-test.com/deposits/deposit-by-phone"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Paypal Deposit",
+    "type": null,
+    "href": "https://mrq-test.com/deposits/paypal-deposit"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Bank transfer",
+    "type": null,
+    "href": "https://mrq-test.com/deposits/bank-transfer"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Debit Cards",
+    "type": null,
+    "href": "https://mrq-test.com/deposits/debit-cards"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Contact us",
+    "type": null,
+    "href": "https://mrq-test.com/contact-us"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Help & FAQ",
+    "type": null,
+    "href": "https://help.mrq.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "bannerOffer__CTA buttonBase",
+    "text": "Join now",
+    "type": null,
+    "href": "https://mrq-test.com/signup"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Full T&Cs apply",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/first-deposit-spins#terms-and-conditions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/crm-mrq-uk-championship-snooker-cropped%20pls%20look%20good.svg"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "verticalLink",
+    "text": "Slots",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/top"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "verticalLink",
+    "text": "Live Casino",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/live"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "verticalLink",
+    "text": "Bingo",
+    "type": null,
+    "href": "https://mrq-test.com/bingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "gridHeader__seeAll secondaryColor buttonBase buttonBase--sm",
+    "text": "See all",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/top"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/pgo-book-of-dead"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Book of Dead",
+    "type": null,
+    "href": "https://mrq-test.com/games/book-of-dead"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/pl-big-bass-bonanza"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Big Bass Bonanza",
+    "type": null,
+    "href": "https://mrq-test.com/games/big-bass-bonanza"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/ins-20p-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "20p Roulette",
+    "type": null,
+    "href": "https://mrq-test.com/games/20p-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/gg-9-pots-of-gold"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "9 Pots of Gold",
+    "type": null,
+    "href": "https://mrq-test.com/games/9-pots-of-gold"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/bp-fishin-frenzy-the-big-catch"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Fishin' Frenzy The Big Catch",
+    "type": null,
+    "href": "https://mrq-test.com/games/fishin-frenzy-the-big-catch"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/gg-fishin-pots-of-gold"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Fishin' Pots of Gold",
+    "type": null,
+    "href": "https://mrq-test.com/games/fishin-pots-of-gold"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/gg-9-masks-of-fire"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "9 Masks of Fire",
+    "type": null,
+    "href": "https://mrq-test.com/games/9-masks-of-fire"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "gridHeader__seeAll secondaryColor buttonBase buttonBase--sm",
+    "text": "See all",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/new"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/3-pots-riches"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "3 Pots Riches",
+    "type": null,
+    "href": "https://mrq-test.com/games/3-pots-riches"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/piggy-payouts-bank-buster-luckytap"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Piggy Payouts Bank Buster LuckyTap",
+    "type": null,
+    "href": "https://mrq-test.com/games/piggy-payouts-bank-buster-lucky-tap"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/gold-rush-express"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Gold Rush Express",
+    "type": null,
+    "href": "https://mrq-test.com/games/gold-rush-express"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/big-bass-amazon-xtreme"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Big Bass Bonanza Amazon Xtreme",
+    "type": null,
+    "href": "https://mrq-test.com/games/big-bass-bonanza-amazon-xtreme"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/razor-returns"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Razor Returns",
+    "type": null,
+    "href": "https://mrq-test.com/games/razor-returns"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/saucy-slingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Saucy Slingo",
+    "type": null,
+    "href": "https://mrq-test.com/games/saucy-slingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/vegas-mega-spin"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Vegas Mega Spin",
+    "type": null,
+    "href": "https://mrq-test.com/games/vegas-mega-spin"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/temple-tumble"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Temple Tumble",
+    "type": null,
+    "href": "https://mrq-test.com/games/temple-tumble"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/pl-buffalo-king-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Buffalo King Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/buffalo-king-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/reel-king-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Reel King Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/reel-king-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/slots/pl-madame-destiny-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Madame Destiny Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/madame-destiny-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/bp-fishin-frenzy-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Fishin Frenzy Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/fishin-frenzy-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/bp-wolf-legend-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Wolf Legend Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/wolf-legend-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/bp-eye-of-horus-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Eye of Horus Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/eye-of-horus-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "gridHeader__seeAll secondaryColor buttonBase buttonBase--sm",
+    "text": "See all",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/live"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/sweet-bonanza-candyland"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Sweet Bonanza CandyLand",
+    "type": null,
+    "href": "https://mrq-test.com/games/sweet-bonanza-candyland"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/boom-city"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Boom City",
+    "type": null,
+    "href": "https://mrq-test.com/games/boom-city"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/monopoly-live"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Monopoly Live",
+    "type": null,
+    "href": "https://mrq-test.com/games/monopoly-live"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/one-blackjack"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "ONE Blackjack",
+    "type": null,
+    "href": "https://mrq-test.com/games/one-blackjack"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/evo-lightning-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Lightning Roulette",
+    "type": null,
+    "href": "https://mrq-test.com/games/evo-lightning-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/mega-ball"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Mega Ball",
+    "type": null,
+    "href": "https://mrq-test.com/games/mega-ball"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/mega-wheel"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Mega Wheel",
+    "type": null,
+    "href": "https://mrq-test.com/games/mega-wheel"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/speed-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Speed Roulette",
+    "type": null,
+    "href": "https://mrq-test.com/games/speed-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "gridHeader__seeAll secondaryColor buttonBase buttonBase--sm",
+    "text": "See all",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/jackpot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/fluffy-favourites-jackpot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/sw-super-lion"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Super Lion",
+    "type": null,
+    "href": "https://mrq-test.com/games/super-lion"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/gg-mega-moolah"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/fluffy-favourites-megaways-jackpot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Fluffy Favourites Megaways Jackpot",
+    "type": null,
+    "href": "https://mrq-test.com/games/fluffy-favourites-megaways-jackpot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/fishin-frenzy-jackpot-king"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Fishin' Frenzy Jackpot King",
+    "type": null,
+    "href": "https://mrq-test.com/games/fishin-frenzy-jackpot-king"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/diamond-mine-megaways-jackpot-king"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "infoButton slotCardCompact__infoButton",
+    "text": "Diamond Mine Megaways Jackpot King",
+    "type": null,
+    "href": "https://mrq-test.com/games/diamond-mine-megaways-jackpot-king"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "section__button secondaryColor buttonBase",
+    "text": "See all games",
+    "type": null,
+    "href": "https://mrq-test.com/games"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "winnerEvent__gameTitle",
+    "text": "20p Roulette",
+    "type": null,
+    "href": "https://mrq-test.com/secure/slots/ins-20p-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "winnerEvent__gameTitle",
+    "text": "First Person Blackjack",
+    "type": null,
+    "href": "https://mrq-test.com/secure/slots/first-person-blackjack"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "winnerEvent__gameTitle",
+    "text": "Immersive Roulette",
+    "type": null,
+    "href": "https://mrq-test.com/secure/games/immersive-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "gridHeader__seeAll secondaryColor buttonBase buttonBase--sm",
+    "text": "See all",
+    "type": null,
+    "href": "https://mrq-test.com/bingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__image-box",
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/90/pinch-a-penny"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__CTA secondaryColor buttonBase",
+    "text": "Join room",
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/90/pinch-a-penny"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__link",
+    "text": "Read more",
+    "type": null,
+    "href": "https://mrq-test.com/bingo/pinch-a-penny"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__image-box",
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/90/on-the-house"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__CTA secondaryColor buttonBase",
+    "text": "Join room",
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/90/on-the-house"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__link",
+    "text": "Read more",
+    "type": null,
+    "href": "https://mrq-test.com/bingo/on-the-house"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__image-box",
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/90/cheap-as-chips"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__CTA secondaryColor buttonBase",
+    "text": "Join room",
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/90/cheap-as-chips"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__link",
+    "text": "Read more",
+    "type": null,
+    "href": "https://mrq-test.com/bingo/cheap-as-chips"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__image-box",
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/30/tropic-like-its-hot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__CTA secondaryColor buttonBase",
+    "text": "Join room",
+    "type": null,
+    "href": "https://mrq-test.com/secure/bingo/30/tropic-like-its-hot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "roomCardDetailed__link",
+    "text": "Read more",
+    "type": null,
+    "href": "https://mrq-test.com/bingo/tropic-like-its-hot"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Full T&Cs apply.",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/first-deposit-spins#terms-and-conditions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/promotions/first-deposit-spins"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "First deposit spins",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/first-deposit-spins"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Full T&Cs apply.",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/first-deposit-spins#terms-and-conditions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "promotion__CTA secondaryColor buttonBase",
+    "text": "More details",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/first-deposit-spins"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "promotion__CTA buttonBase",
+    "text": "Join now",
+    "type": null,
+    "href": "https://mrq-test.com/signup"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Refer your friends",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Full T&Cs apply.",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend#terms-and-conditions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "promotion__CTA secondaryColor buttonBase",
+    "text": "More details",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "promotion__CTA buttonBase",
+    "text": "Join now",
+    "type": null,
+    "href": "https://mrq-test.com/signup"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "NetEnt",
+    "type": null,
+    "href": "https://mrq-test.com/providers/netent"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Eyecon",
+    "type": null,
+    "href": "https://mrq-test.com/providers/eyecon"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Thunderkick",
+    "type": null,
+    "href": "https://mrq-test.com/providers/thunderkick"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "High 5",
+    "type": null,
+    "href": "https://mrq-test.com/providers/high-5"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Blueprint",
+    "type": null,
+    "href": "https://mrq-test.com/providers/blueprint"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Play'n Go",
+    "type": null,
+    "href": "https://mrq-test.com/providers/play-n-go"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Hacksaw",
+    "type": null,
+    "href": "https://mrq-test.com/providers/hacksaw"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Skywind",
+    "type": null,
+    "href": "https://mrq-test.com/providers/skywind"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Relax Gaming",
+    "type": null,
+    "href": "https://mrq-test.com/providers/relax-gaming"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Slingo",
+    "type": null,
+    "href": "https://mrq-test.com/providers/slingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Push Gaming",
+    "type": null,
+    "href": "https://mrq-test.com/providers/push-gaming"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Big Time Gaming",
+    "type": null,
+    "href": "https://mrq-test.com/providers/big-time-gaming"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Playson",
+    "type": null,
+    "href": "https://mrq-test.com/providers/playson"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Evolution",
+    "type": null,
+    "href": "https://mrq-test.com/providers/evolution"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Pragmatic Play",
+    "type": null,
+    "href": "https://mrq-test.com/providers/pragmatic-play"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "iSoftbet",
+    "type": null,
+    "href": "https://mrq-test.com/providers/isoftbet"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Inspired Gaming",
+    "type": null,
+    "href": "https://mrq-test.com/providers/inspired-gaming"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Wazdan",
+    "type": null,
+    "href": "https://mrq-test.com/providers/wazdan"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "NoLimit City",
+    "type": null,
+    "href": "https://mrq-test.com/providers/nolimit-city"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Red Tiger Gaming",
+    "type": null,
+    "href": "https://mrq-test.com/providers/red-tiger-gaming"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Pocket Games Soft",
+    "type": null,
+    "href": "https://mrq-test.com/providers/pocket-games-soft"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Slot Factory",
+    "type": null,
+    "href": "https://mrq-test.com/providers/slot-factory"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Megaways Slots",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-megaways-slots"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Best American Style Slots",
+    "type": null,
+    "href": "https://mrq-test.com/blog/best-american-style-slots"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Baccarat",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-baccarat"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Roulette",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-roulette"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Blackjack Strategies",
+    "type": null,
+    "href": "https://mrq-test.com/blog/blackjack-strategies"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Slingo",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-slingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Blackjack",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-blackjack"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Bingo",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-bingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Best RTP Games",
+    "type": null,
+    "href": "https://mrq-test.com/blog/best-rtp-games"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Blackjack Card Counting Strategies",
+    "type": null,
+    "href": "https://mrq-test.com/blog/blackjack-card-counting-strategies"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Blackjack X-Change",
+    "type": null,
+    "href": "https://mrq-test.com/blog/blackjack-x-change"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "RTP Explained",
+    "type": null,
+    "href": "https://mrq-test.com/blog/rtp-explained"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to Play Online Bingo with Friends",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-online-bingo-with-friends"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Slots",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-slots"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to play Cluster Pays Slots",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-cluster-pays-slots"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "How to Play Live Casino",
+    "type": null,
+    "href": "https://mrq-test.com/blog/how-to-play-live-casino"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Roulette Strategies",
+    "type": null,
+    "href": "https://mrq-test.com/blog/roulette-strategies"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Mega Ball Strategy Guide",
+    "type": null,
+    "href": "https://mrq-test.com/blog/mega-ball-strategy-guide"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Crazy Time Strategy Guide",
+    "type": null,
+    "href": "https://mrq-test.com/blog/crazy-time-strategy-guide"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Monopoly Live Strategy Guide",
+    "type": null,
+    "href": "https://mrq-test.com/blog/monopoly-live-strategy-guide"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Baccarat Strategies",
+    "type": null,
+    "href": "https://mrq-test.com/blog/baccarat-strategies"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Lightning Roulette Strategy Guide",
+    "type": null,
+    "href": "https://mrq-test.com/blog/lightning-roulette-strategy-guide"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Aviator Casino Game Strategy",
+    "type": null,
+    "href": "https://mrq-test.com/blog/aviator"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Slingo Strategies",
+    "type": null,
+    "href": "https://mrq-test.com/blog/slingo-strategies"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "articleCardCompact",
+    "text": "Top 10 Halloween Slots",
+    "type": null,
+    "href": "https://mrq-test.com/blog/top-10-halloween-slots"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://apps.apple.com/gb/app/mrq-online-casino/id1575736947"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://play.google.com/store/apps/details?id=com.mrqapp.android&hl=en"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Login onto MrQ here",
+    "type": null,
+    "href": "https://ie.mrq.com/login?redirect=%2Fsecure%2Flobby"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "best New Slots",
+    "type": null,
+    "href": "https://ie.mrq.com/games/category/new"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Eye of Horus Megaways",
+    "type": null,
+    "href": "https://ie.mrq.com/games/eye-of-horus-megaways"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Slingo Rainbow Riches",
+    "type": null,
+    "href": "https://ie.mrq.com/games/slingo-rainbow-riches"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "live casino games",
+    "type": null,
+    "href": "https://ie.mrq.com/games/category/live"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "new promotions",
+    "type": null,
+    "href": "https://mrq-test.com/promotions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Verify your mobile",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/verify-mobile"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Refer a Friend",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Pragmatic Play Drops & Wins",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/drops-and-wins"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Exclusive Welcome Offer",
+    "type": null,
+    "href": "https://mrq.com/promotions/welcome-offer"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "And so much more!",
+    "type": null,
+    "href": "https://mrq-test.com/promotions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "real money games",
+    "type": null,
+    "href": "https://mrq-test.com/games/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "top slots",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/top/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Megaways",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/megaways/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Slingo games",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/slingo/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "live casino games",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/live/all"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "table games",
+    "type": null,
+    "href": "https://mrq-test.com/games/category/casino/all"
+  },
+  {
+    "tagName": "button",
+    "id": null,
+    "className": "typography body-md-strong articleWithExcerpt__button buttonBase buttonBase--link",
+    "text": "Read more",
+    "type": "button",
+    "href": null
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "editPage",
+    "text": null,
+    "type": null,
+    "href": "https://flicker.mrq-test.com/admin/plugins/content-manager/collectionType/application::content.content/1"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Home",
+    "type": null,
+    "href": "https://mrq-test.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Refer a friend",
+    "type": null,
+    "href": "https://mrq-test.com/promotions/refer-a-friend"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "What is MrQ?",
+    "type": null,
+    "href": "https://mrq-test.com/why-mrq"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "About",
+    "type": null,
+    "href": "https://mrq-test.com/about-us"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Contact us",
+    "type": null,
+    "href": "https://mrq-test.com/contact-us"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Help & FAQ",
+    "type": null,
+    "href": "https://help.mrq.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Sitemap",
+    "type": null,
+    "href": "https://mrq-test.com/sitemap"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Login",
+    "type": null,
+    "href": "https://mrq-test.com/login"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Bingo",
+    "type": null,
+    "href": "https://mrq-test.com/bingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Games",
+    "type": null,
+    "href": "https://mrq-test.com/games"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Promotions",
+    "type": null,
+    "href": "https://mrq-test.com/promotions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Blog",
+    "type": null,
+    "href": "https://mrq-test.com/blog"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://uk.trustpilot.com/review/mrq.com"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.gambleaware.org/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.gamblingcommission.gov.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.gamstop.co.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.gamcare.org.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.ibas-uk.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.o2.co.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://www.three.co.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://ee.co.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": null,
+    "type": null,
+    "href": "https://vodafone.co.uk/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "General Terms & Conditions",
+    "type": null,
+    "href": "https://mrq-test.com/terms-conditions"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Customer Privacy Policy",
+    "type": null,
+    "href": "https://mrq-test.com/privacy-policy"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Safer Gambling Policy",
+    "type": null,
+    "href": "https://mrq-test.com/safer-gambling"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Fair use policy",
+    "type": null,
+    "href": "https://mrq-test.com/fair-use-policy"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Careers",
+    "type": null,
+    "href": "https://careers.lindar.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "Affiliates",
+    "type": null,
+    "href": "https://partners.mrq.com/"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "60629",
+    "type": null,
+    "href": "https://www.gamblingcommission.gov.uk/public-register/business/detail/60629"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "footer__socialLink",
+    "text": null,
+    "type": null,
+    "href": "https://www.facebook.com/mrqandyou"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "footer__socialLink",
+    "text": null,
+    "type": null,
+    "href": "https://www.x.com/mrqbingo"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "footer__socialLink",
+    "text": null,
+    "type": null,
+    "href": "https://www.instagram.com/mrqandyou"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "footer__dowloadMobileAppsLink",
+    "text": null,
+    "type": null,
+    "href": "https://apps.apple.com/gb/app/mrq-online-casino/id1575736947"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": "footer__dowloadMobileAppsLink",
+    "text": null,
+    "type": null,
+    "href": "https://play.google.com/store/apps/details?id=com.mrqapp.android&hl=en"
+  },
+  {
+    "tagName": "a",
+    "id": null,
+    "className": null,
+    "text": "cookies",
+    "type": null,
+    "href": "https://mrq-test.com/privacy-policy"
+  },
+  {
+    "tagName": "button",
+    "id": null,
+    "className": "cookieConsent__button secondaryColor buttonBase",
+    "text": "I agree",
+    "type": "button",
+    "href": null
+  }
+]
