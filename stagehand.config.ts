@@ -2,6 +2,9 @@ import type { ConstructorParams, LogLine } from "@browserbasehq/stagehand";
 import dotenv from "dotenv";
 false
 import { OllamaClient } from "./ollama_client.js";
+// Removed unused import of defineConfig
+
+
 
 dotenv.config();
 
@@ -80,4 +83,6 @@ export function logLineToString(logLine: LogLine): string {
     console.error(`Error logging line:`, error);
     return "error logging line";
   }
+
+// Removed usage of defineConfig as it is not exported by the module
 }
